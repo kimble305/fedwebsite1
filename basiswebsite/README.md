@@ -19,10 +19,10 @@ https://kimble305.github.io/fedwebsite1/
 Kim Karanko
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+surface plane
  
 </details>
 
