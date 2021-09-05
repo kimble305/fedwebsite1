@@ -36,7 +36,7 @@ surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.spotify.com/nl/premium/?utm_source=nl_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_europe_nl_performancemarketing_core_brand+contextual+text+exact+nl+google&gclid=EAIaIQobChMI0uzr6MHo8gIVA6p3Ch2UdgZQEAAYASAAEgKk2PD_BwE&gclsrc=aw.ds
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
