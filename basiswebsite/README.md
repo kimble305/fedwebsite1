@@ -41,6 +41,8 @@ https://www.spotify.com/nl/premium/?utm_source=nl_brand_contextual_text&utm_medi
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ 
+![Schermopname (1004)](https://user-images.githubusercontent.com/90153306/132138389-d6613510-47ae-40b8-a85c-d81b5c64751b.png)
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
