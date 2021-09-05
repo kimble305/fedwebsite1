@@ -39,14 +39,12 @@ surface plane
 https://www.spotify.com/nl/premium/?utm_source=nl_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_europe_nl_performancemarketing_core_brand+contextual+text+exact+nl+google&gclid=EAIaIQobChMI0uzr6MHo8gIVA6p3Ch2UdgZQEAAYASAAEgKk2PD_BwE&gclsrc=aw.ds
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+homepage
 ![Schermopname (1004)](https://user-images.githubusercontent.com/90153306/132138389-d6613510-47ae-40b8-a85c-d81b5c64751b.png)
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ondersteuning pagina
+![Schermopname (1005)](https://user-images.githubusercontent.com/90153306/132138407-f74d29d9-060b-471d-8457-b12b87127421.png)
  
 </details>
 
