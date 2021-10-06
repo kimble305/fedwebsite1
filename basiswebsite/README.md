@@ -6,7 +6,7 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-https://kimble305.github.io/fedwebsite1/
+
 
 
 
@@ -16,13 +16,13 @@ https://kimble305.github.io/fedwebsite1/
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Kim Karanko
+Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-blauw
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 #### Je focus:
-surface plane
+hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,15 @@ surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.spotify.com/nl/premium/?utm_source=nl_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_europe_nl_performancemarketing_core_brand+contextual+text+exact+nl+google&gclid=EAIaIQobChMI0uzr6MHo8gIVA6p3Ch2UdgZQEAAYASAAEgKk2PD_BwE&gclsrc=aw.ds
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-homepage
-![Schermopname (1004)](https://user-images.githubusercontent.com/90153306/132138389-d6613510-47ae-40b8-a85c-d81b5c64751b.png)
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-ondersteuning pagina
-![Schermopname (1005)](https://user-images.githubusercontent.com/90153306/132138407-f74d29d9-060b-471d-8457-b12b87127421.png)
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
